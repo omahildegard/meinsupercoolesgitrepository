@@ -1,0 +1,7 @@
+numberofcommstest//
+//
+
+asas
+//asas
+//
+should be 4
