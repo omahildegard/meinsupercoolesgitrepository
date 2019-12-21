@@ -1,2 +1,4 @@
 //insane main method
-void main()
+void main(){
+	System.out.println("sadsad");
+}
